@@ -3,4 +3,4 @@ Burger Builder is an application scripted in `React`  and deployed on `Firebase`
 
 ### Deployment
 > See it working live.
-[Burger Builder](https://my-burger-e14c1.firebaseapp.com/)
+[Burger Builder](https://react-my-burger-bad4f.web.app);
